@@ -16,5 +16,5 @@ cd port-forwarding-cloudflared
 ./run-cloudflared
 
 ## 5. Access the forwarded service  
----> Enter the IP address:  <YOUR-IP>
----> Enter the port number: <YOUR-PORT>
+### ---> Enter the IP address:<YOUR-IP>
+### ---> Enter the port number:<YOUR-PORT>
